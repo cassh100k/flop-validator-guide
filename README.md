@@ -7,7 +7,9 @@ Step-by-step guide to the **administrator-assisted devnet**, for package
 > [docs.flop.network](https://docs.flop.network) and [ask.flop.finance](https://ask.flop.finance).
 > Nothing here grants admission. Release inputs change: verify them yourself before you act.
 
-**Getting ready for testnet?** See the separate **[FLOP Testnet Guide](https://github.com/cassh100k/flop-testnet-guide)**.
+> 🟢 **The FLOP testnet is live** (opened 24 Nov 2026) and registration is open for the **first 50
+> validator seats**. If you're here for testnet, use the **[FLOP Testnet Guide](https://github.com/cassh100k/flop-testnet-guide)**
+> instead. This page covers the separate **devnet** only.
 
 ---
 
